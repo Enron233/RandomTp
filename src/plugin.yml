@@ -1,0 +1,7 @@
+name: RandomTp
+main: iam.xiaoan.randomtp.main.Main
+version: 1.0.0
+author: Xiaoan
+commands:
+  anrtp:
+    description: "The plugin named RandomTp's coomands"
